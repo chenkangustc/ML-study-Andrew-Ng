@@ -17,3 +17,7 @@ ___
 	feature scaling&mena normalization
 	debugging:can`t converge-> smaller alpha
 	features:1 proper,eg:size=width*length;2 polynomial regression:quadratic/cubic...
+	normal equation
+[matlab-doc][matlab]
+-------
+[matlab]:http://cn.mathworks.com/help/matlab/?refresh=true
