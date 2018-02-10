@@ -4,6 +4,7 @@ ___
 * [First week](#Firstweek)
 * [Second week](#Secondweek)
 * [Third week](#Thirdweek)
+* [tools](#tools)
 ___
 ## Firstweek
 ### some definition:
@@ -35,5 +36,8 @@ cost function:
 |conjugate gradient|without alpha,faster|complex
 |BFGS|without alpha,faster|complex
 |L-BFGS|without alpha,faster|complex
+## tools
+[Latex online][LaTexonline]
 -------
 [matlab]:http://cn.mathworks.com/help/matlab/?refresh=true
+[LaTexonline]:https://www.codecogs.com/latex/eqneditor.php
