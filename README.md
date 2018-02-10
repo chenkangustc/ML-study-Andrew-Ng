@@ -3,6 +3,7 @@ ___
 ## catalog
 * [First week](#Firstweek)
 * [Second week](#Secondweek)
+* [Third week](#Thirdweek)
 ___
 ## Firstweek
 ### some definition:
@@ -22,7 +23,7 @@ ___
 ## Thirdweek
 classification problem:logistic regression(contrast to linear regression)
 g(z)
-hypothesis:h(x)=g(sita*x)
+hypothesis:h(x)=g(sita*x)  
 cost function:  
 <a href="https://www.codecogs.com/eqnedit.php?latex=cost(h_{\theta&space;}(x)),y)=\begin{Bmatrix}&space;-log(h_{\theta&space;}(x)),y=1\\&space;-log(1-h_{\theta&space;}(x)),y=0&space;\end{Bmatrix}" target="_blank"><img src="https://latex.codecogs.com/png.latex?cost(h_{\theta&space;}(x)),y)=\begin{Bmatrix}&space;-log(h_{\theta&space;}(x)),y=1\\&space;-log(1-h_{\theta&space;}(x)),y=0&space;\end{Bmatrix}" title="cost(h_{\theta }(x)),y)=\begin{Bmatrix} -log(h_{\theta }(x)),y=1\\ -log(1-h_{\theta }(x)),y=0 \end{Bmatrix}" /></a>  
 <a href="https://www.codecogs.com/eqnedit.php?latex=cost({h_{\theta}(x),y})=-ylog(h_{\theta}(x))-(1-y)log(1-h_{\theta}(x))" target="_blank"><img src="https://latex.codecogs.com/png.latex?cost({h_{\theta}(x),y})=-ylog(h_{\theta}(x))-(1-y)log(1-h_{\theta}(x))" title="cost({h_{\theta}(x),y})=-ylog(h_{\theta}(x))-(1-y)log(1-h_{\theta}(x))" /></a>  
